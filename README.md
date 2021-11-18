@@ -1,6 +1,6 @@
 - 👋  Hi, I’m @kielsucks
 - 👀  I’m interested in mathy things, security as a byproduct of that
-- 📫  How to reach me kiel.hughes@gmail.com
+- 📫  How to reach me kiel@ayylmao.lol
 
 <!---
 kielsucks/kielsucks is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
